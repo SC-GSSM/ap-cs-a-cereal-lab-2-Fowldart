@@ -38,7 +38,7 @@ public class CerealRunner
    
    /* Question 2: Write highestPercentFiber
    * This static method will return the cereal with the highest 
-   * percentage of Fiber per calorie
+   * percentage of Fibe per calorie
    * Precondition: cereals.size() > 0
    */
     
